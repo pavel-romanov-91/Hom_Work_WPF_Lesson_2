@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hom_Work_WPF_Exercise_2", "Hom_Work_WPF_Lesson_1\Hom_Work_WPF_Exercise_2.csproj", "{73C635FB-0EAC-487F-80FF-82E16EC7BAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C635FB-0EAC-487F-80FF-82E16EC7BAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C635FB-0EAC-487F-80FF-82E16EC7BAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C635FB-0EAC-487F-80FF-82E16EC7BAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C635FB-0EAC-487F-80FF-82E16EC7BAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E3CCB1-337C-4C94-B887-64C71476A649}
+	EndGlobalSection
+EndGlobal
